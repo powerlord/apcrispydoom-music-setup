@@ -37,6 +37,11 @@ In the `music-packs` folder:
 * Heretic - Create a `heretic-music` folder and unzip `heretic_sc55_ogg.zip` into it
 * Plutonia Experiment - Follow the directions below
 
+# Unzipping the config files
+
+1. Download `apcrispydoom-music-setup.zip` from the Releases page.
+2. Unzip `apcrispydoom-music-setup.zip` into the `music-packs` folder.
+
 # Plutonia Experiment Specific Instructions
 
 Plutonia Experiment reuses the music from Doom and Doom 2 instead of having original music.  This requies an extra setup step.
