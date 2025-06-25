@@ -35,8 +35,14 @@ In the `music-packs` folder:
 * Doom II - Create a `doom2-music` folder and unzip `domo2_sc55_ogg_v1.2.zip` **or** `domo2_sc55_ogg_raw_v1.2.zip` into it
 * TNT - Create a `tnt-music` folder and unzip `tntevilution_sc55_ogg.zip` **or** `tntevilution_sc55_ogg_raw.zip` into it
 * Heretic - Create a `heretic-music` folder and unzip `heretic_sc55_ogg.zip` into it
+* Plutonia Experiment - Follow the directions below
 
 # Plutonia Experiment Specific Instructions
 
 Plutonia Experiment reuses the music from Doom and Doom 2 instead of having original music.  This requies an extra setup step.
 
+On the Roland SC-55 Music Packs site, there is a Plutonia Experiment script.  This uses the zip files of Doom and Doom 2 music to generate a Plutonia music zip.  Directions on the script's use is on the [Doom music page](https://sc55.duke4.net/games.php#doom) under "The Plutonia Experiment".
+
+Once the script is run and the zip file is created:
+
+* Create a `plutonia-music` folder and unzip `plutonia_sc55_ogg.zip` into it
