@@ -32,7 +32,7 @@ On Windows, this is `%APPDATA%\crispy-doom\music-packs`
 In the `music-packs` folder: 
 
 * Doom/Ultimate Doom - Create a `doom-music` folder and unzip `doom_sc55_ogg.zip` **or** `doom_sc55_ogg_raw.zip` into it
-* Doom II - Create a `doom2-music` folder and unzip `domo2_sc55_ogg_v1.2.zip` **or** `domo2_sc55_ogg_raw_v1.2.zip` into it
+* Doom II - Create a `doom2-music` folder and unzip `doom2_sc55_ogg_v1.2.zip` **or** `doom2_sc55_ogg_raw_v1.2.zip` into it
 * TNT - Create a `tnt-music` folder and unzip `tntevilution_sc55_ogg.zip` **or** `tntevilution_sc55_ogg_raw.zip` into it
 * Heretic - Create a `heretic-music` folder and unzip `heretic_sc55_ogg.zip` into it
 * Plutonia Experiment - Follow the directions below
